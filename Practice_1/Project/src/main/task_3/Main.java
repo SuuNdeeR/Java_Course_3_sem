@@ -1,3 +1,5 @@
+package task_3;
+
 public class Main {
 
     /*  Вынес цикл в отдельный метод со static, можно сделать static, 

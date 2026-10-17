@@ -1,3 +1,5 @@
+package task_3;
+
 public class Course {
     private long id;
     private String title;

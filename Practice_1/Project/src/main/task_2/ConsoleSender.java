@@ -1,3 +1,5 @@
+package task_2;
+
 public class ConsoleSender extends NotificationSender {
 
     @Override

@@ -1,3 +1,5 @@
+package task_3;
+
 public class NormalCourseFormatter implements CourseFormatter {
     
     @Override 

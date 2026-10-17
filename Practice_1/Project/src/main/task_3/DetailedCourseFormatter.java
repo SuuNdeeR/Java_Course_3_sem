@@ -1,3 +1,5 @@
+package task_3;
+
 public class DetailedCourseFormatter implements CourseFormatter {
     
     @Override

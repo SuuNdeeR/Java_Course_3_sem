@@ -1,3 +1,5 @@
+package task_1;
+
 public class CompactCourseFormatter implements CourseFormatter {
 
     @Override

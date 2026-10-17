@@ -1,3 +1,5 @@
+package task_2;
+
 public class NotificationSender {
     
     public void send(String str_1){
